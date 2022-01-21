@@ -1,0 +1,8 @@
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/install/strip.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/install/local.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/lightgbm.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/_lightgbm.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/edit_cache.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/rebuild_cache.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/list_install_components.dir
+/home/yingzhenzhe/lightgbm_mgbm/python-package/build_cpp/CMakeFiles/install.dir

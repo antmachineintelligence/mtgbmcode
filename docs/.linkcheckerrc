@@ -1,0 +1,16 @@
+[checking]
+recursionlevel=1
+anchors=1
+sslverify=0
+
+[filtering]
+ignore=
+  pythonapi/lightgbm\..*\.html.*
+ignorewarnings=http-robots-denied,https-certificate-error
+checkextern=1
+
+[output]
+# Set to 1 if you want see the full output, not only warnings and errors
+verbose=0
+
+[AnchorCheck]
