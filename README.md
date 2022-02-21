@@ -18,7 +18,10 @@ MTGBM 一种多任务的GBDT实现
 cd python-package  
 python setup.py install  
 ```
-安装，注意需要卸载原版lightgbm进行使用，我们的api会兼容lightgbm的功能。
+安装，注意需要卸载原版lightgbm进行使用，我们的api会兼容lightgbm的功能。  
+安装过程需要编译CPP文件，所以需要有编译环境，如果实现已经编译过lightgbm，需要删除缓存文件：   
+rm -rf /usr/local/lib/python3.6/dist-packages/lightgbm   
+
 
 我们提供两个实例实验：  
 [第一个实验](https://github.com/mtgbmcode/mtgbmcode/tree/main/examples/example1) 展示了对一段时间中外外汇量进行预测，我们将原本的单目标绝对交易量级转化为交易量级和交易量涨跌幅两个强相关且拥有不同意义的目标进行学习，在mape获得提升效果。  
