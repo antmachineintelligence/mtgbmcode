@@ -1,4 +1,4 @@
-MTGBM 一种多任务的GBDT实现
+MTGBM
 =========================================
 
 [中文版文档](https://github.com/antmachineintelligence/mtgbmcode/blob/main/README.CH)
@@ -46,4 +46,4 @@ For more information see here https://arxiv.org/abs/2201.06239.
             
 Support
 -----------------------------   
-Plz email [me](zhenzhe.yzz@antgroup.com) if you have any questions.
+Please email [me](zhenzhe.yzz@antgroup.com) if you have any questions.
